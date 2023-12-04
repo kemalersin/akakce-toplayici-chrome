@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Akakçe Toplayıcı",
+    "description": "Eklenti adı."
+  },
+  "appDescription": {
+    "message": "Akakçe takip listelerine alt toplam ekler.",
+    "description": "Eklenti açıklaması."
+  }
+}

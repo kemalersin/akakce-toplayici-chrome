@@ -1,0 +1,22 @@
+{
+  "name": "__MSG_appName__",
+  "version": "0.1.1",
+  "manifest_version": 3,
+  "description": "__MSG_appDescription__",
+  "icons": {
+    "16": "assets/icon-16.png",
+    "64": "assets/icon-64.png"
+  },
+  "default_locale": "tr",
+  "content_scripts": [
+    {
+      "matches": [
+        "https://*.akakce.com/akakcem/takip-listem/*"
+      ],
+      "js": [
+        "scripts/content-script.js"
+      ],
+      "run_at": "document_end"
+    }
+  ]
+}
