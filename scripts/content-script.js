@@ -39,7 +39,6 @@ const regex = /^\d{1,3}(?:\.\d{3})*(?:,\d{2})? TL$/;
             <h3 class="pn_v8">Listedeki en ucuz fiyatların toplamı aşağıdadır:</h3>
           </span> 
         </a>
-        </span>
         <div class="p_w_v9">
           <a class="iC">
             <span class="pb_v8">
